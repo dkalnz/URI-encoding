@@ -7,7 +7,8 @@ I was looking through https://futbin.com to [see where their data comes from](ht
 
 There is one semi-paywalled API: https://futdb.app that was started in 2020, and Futbin is much older than that. How they get the data is unbeknownst to me.
 
-[The JS file](https://github.com/dkalnz/URI-encoding/blob/main/script-donotrun.js) looks like some basic encryption, but turns out it's just an encoded fetch request for Lambda@Edge that gets routed through a Tor-like network to make everyones internet faster.
+### ----->[The JS file](https://github.com/dkalnz/URI-encoding/blob/main/script-donotrun.js)<-----
+looks like some basic encryption, but turns out it's just an encoded fetch request for Lambda@Edge that gets routed through a Tor-like network to make everyones internet faster.
 I still do not understand the JS structure underneath, but someone probably got paid a lot for it.
 I've noticed 'loaders' have similar types of encoding, some not so cryptic, but most ads are placed into HTML, and the script that loaded it is gone, leaving no DOM handlers on the page.
 
