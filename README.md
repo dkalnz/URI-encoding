@@ -16,7 +16,8 @@ I've noticed 'loaders' have similar types of encoding, some not so cryptic, but 
 10,000 lines of code vs a URI, for the purposes of 'streamlining'.
 I even tried to fold it until I realized my scrollbar had barely moved:
 
-![image](https://user-images.githubusercontent.com/88372572/192675187-7f62c54b-311c-45d4-9076-564ebac57d34.png)
+![image](https://user-images.githubusercontent.com/88372572/192675495-62271426-0dae-4838-862a-9a3938b51fc7.png)
+
 
 
 
