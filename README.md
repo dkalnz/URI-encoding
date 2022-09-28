@@ -12,7 +12,11 @@ looks like some basic encryption, but turns out it's just an encoded fetch reque
 I still do not understand the JS structure underneath, but someone probably got paid a lot for it.
 I've noticed 'loaders' have similar types of encoding, some not so cryptic, but most ads are placed into HTML, and the script that loaded it is gone, leaving no DOM handlers on the page.
 
-10,000 lines of code vs a URI, for the purposes of 'streamlining'.
-
 [Read about UTF-8 encoding here](https://www.urlencoder.org)
+10,000 lines of code vs a URI, for the purposes of 'streamlining'.
+I even tried to fold it until I realized my scrollbar had barely moved:
+
+![image](https://user-images.githubusercontent.com/88372572/192675187-7f62c54b-311c-45d4-9076-564ebac57d34.png)
+
+
 
