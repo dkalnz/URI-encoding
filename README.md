@@ -1,2 +1,5 @@
 # URI-encoding
-unknown URI encoding as seen on https site, see readme
+## Amazon Cloudfront
+### (first)[second]
+
+I
