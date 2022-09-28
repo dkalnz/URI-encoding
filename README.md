@@ -1,6 +1,7 @@
 # URI-encoding
 ### Amazon Cloudfront JS
-### [Lambda@Edge makes the internet fast](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html),&nbsp thanks Jeff.
+### [Lambda@Edge makes the internet fast](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html), 
+#### thanks Jeff.
 
 I was looking through https://futbin.com to [see where their data comes from](https://www.futbin.com/23/player/62/pele), turns out it's a JQueried CDN (content delivery network), thus effectively inaccessible. I was combing through 25ish sources in the page, most of which were ads to find the data source, as this particular set of data is demanded, closed source and highly speculated upon.
 
